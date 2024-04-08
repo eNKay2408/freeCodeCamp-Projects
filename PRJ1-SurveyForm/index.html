@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>eNKay Survey Form</title>
+    <link rel="stylesheet" href="styles.css"/>
+  </head>
+  <body>
+    <h1 id="title">
+      Biểu mẫu của eNKay
+    </h1>
+    <p id="description">
+      <i>Biểu mẫu khảo sát để lấy thông tin trải nghiệm môn học của sinh viên</i>
+    </p>
+    <form id="survey-form" method="post" action="https://register-demo.freecodecamp.org">
+      <fieldset>
+        <label id="name-label" for="name">
+          <b>HỌ VÀ TÊN (*)</b>
+          <input id="name" name="name" type="text" placeholder="VD: eNKay" required/>
+        </label>
+        <label id="email-label" for="email">
+          <b>ĐỊA CHỈ EMAIL (*)</b>
+          <input id="email" name="email" type="email" placeholder="VD: enkay@gmail.com" required/>
+        </label>
+        <label id="number-label" for="number">
+          <b>KHÓA TUYỂN</b>
+          <input id="number" name="number" type="number" min="17" max="23" placeholder="VD: 22"/>
+        <label for="dropdown">
+          <b>MÔN HỌC YÊU THÍCH NHẤT (*)</b>
+          <select id="dropdown" name="dropdown">
+            <option value="">(select one)</option>
+            <option value="NMLT">Nhập môn lập trình</option>
+            <option value="KTLT">Kỹ thuật lập trình</option>
+            <option value="DSA">Cấu trúc dữ liệu và giải thuật</option>
+            <option value="OOP">Lập trình hướng đối tượng</option>
+          </select>
+        </label>
+        <label class="state">
+          <b>TÌNH TRẠNG MÔN HỌC (*)</b>
+          <label for="passed">
+            <input type="radio" id="passed" name="state" class="inline" value="passed" checked/>
+            Đã vượt qua
+         </label>
+          <label for="non-passed">
+           <input type="radio" id="non-passed" name="state" class="inline" value="non-passed"/>
+            Đã rớt môn
+          </label>
+          <label for="studying">
+            <input type="radio" id="studying" name="state" class="inline" value="studying"/>
+            Đang học
+          </label>
+        </label>
+        <label class="job" for="job">
+          <b>CÔNG VIỆC MONG MUỐN TƯƠNG LAI</b>
+          <label for="front-end">
+            <input type="checkbox" id="front-end" name="job" class="inline" value="front-end">
+            Front-end Developer
+          </label>
+          <label for="back-end">
+            <input type="checkbox" id="back-end" name="job" class="inline" value="back-end">
+            Back-end Developer
+          </label>
+          <label for="full-stack">
+            <input type="checkbox" id="full-stack" name="job" class="inline" value="full-stack">
+            Full-stack Developer
+          </label>
+        </label>
+        <label> 
+          <b>KẾ HOẠCH NGHỀ NGHIỆP</b>
+          <textarea id="plan" name="plan" rows="5" placehold="Hãy trình bày kế hoạch tương lai để đạt được công việc yêu thích của bạn"></textarea>
+          <input type="submit" id="submit" value="Submit"/>
+        </label>
+      </fieldset>
+    </form>
+  </body>
+</html>

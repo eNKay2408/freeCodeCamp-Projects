@@ -1,0 +1,79 @@
+body {
+	width: 100%;
+	height: 100vh;
+	margin: 0;
+	background-color: #344b7b;
+	color: #ffffff;
+	font-family: Segoe Ui;
+	font-size: 18px;
+}
+
+h1,
+p {
+	margin: 0.5em auto;
+	text-align: center;
+}
+
+form {
+	width: 80%;
+	max-width: 760px;
+	margin: 0 auto;
+}
+
+fieldset {
+	padding: 1rem 0;
+	border: 5px solid #8ca4b4;
+}
+
+label {
+	display: block;
+	margin: 1.5rem 0;
+	text-align: center;
+}
+
+input,
+textarea,
+select {
+	display: block;
+	width: 70%;
+	margin: 0.5rem auto;
+	min-height: 2em;
+}
+
+input,
+textarea {
+	background-color: #ffffff;
+	color: #344b7b;
+	border: 1px solid #ffffff;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+	width: 20px;
+}
+
+.state label {
+	width: 100%;
+	margin: 0.5em auto;
+}
+
+.job label {
+	width: 100%;
+	margin: 0.5em auto;
+}
+
+.inline {
+	margin: 0 0.5em 0 0;
+	vertical-align: middle;
+	display: inline;
+}
+
+input[type="submit"] {
+	width: 30%;
+	height: 3em;
+	margin: 1.5em auto;
+	font-size: 1.2rem;
+	font-weight: bold;
+	background-color: #8ca4b4;
+	color: #344b7b;
+}
