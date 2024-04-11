@@ -14,3 +14,4 @@ There are some of my Responsive Web Design Projects on freeCodeCamp
 ## 3. Technical Documentation - Stage 03
 - **Introduction**: These are the first technologies I learned when I started my personal development path
 - **Skill**: HTML (Responsive Web Design) and CSS (Pseudo, Intermediate)
+- **Purpose**: Introduction my goals and basic functions of technologies including: Linked, Git & Github, Jira, Figma, VSCode
