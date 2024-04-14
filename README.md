@@ -19,3 +19,4 @@ There are some of my Responsive Web Design Projects on freeCodeCamp
 ## 4. Product Landing - Stage 04
 - **Introduction**: This service price list is fictional and humorous
 - **Skills**: HTML (Practice) and CSS (Variables, Grid)
+- **Purposes**: Practice fun creative and service website simulations
