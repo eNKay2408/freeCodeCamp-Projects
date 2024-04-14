@@ -20,3 +20,7 @@ There are some of my Responsive Web Design Projects on freeCodeCamp
 - **Introduction**: This service price list is fictional and humorous
 - **Skills**: HTML (Practice) and CSS (Variables, Grid)
 - **Purposes**: Practice fun creative and service website simulations
+
+## 5. Personal Portfolio
+- **Introduction**: A little introduction to the projects I did in my first year of college
+- **Skills**: HTML (Practice) and CSS (Animation, Transform)
