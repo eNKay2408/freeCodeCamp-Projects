@@ -25,3 +25,5 @@ There are some of my Responsive Web Design Projects on freeCodeCamp
 - **Introduction**: This is the last project before I get my first certification. Very excited!
 - **Skills**: HTML (Practice) and CSS (Animation, Transform)
 - **Purposes**: Storing memories of projects I did in my first year of college
+
+# No Pain - No Gain
