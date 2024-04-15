@@ -21,6 +21,7 @@ There are some of my Responsive Web Design Projects on freeCodeCamp
 - **Skills**: HTML (Practice) and CSS (Variables, Grid)
 - **Purposes**: Practice fun creative and service website simulations
 
-## 5. Personal Portfolio
-- **Introduction**: A little introduction to the projects I did in my first year of college
+## 5. Personal Portfolio - Stage 05
+- **Introduction**: This is the last project before I get my first certification. Very excited!
 - **Skills**: HTML (Practice) and CSS (Animation, Transform)
+- **Purposes**: Storing memories of projects I did in my first year of college
