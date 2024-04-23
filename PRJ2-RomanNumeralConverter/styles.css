@@ -1,0 +1,109 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 20px;
+}
+
+:root {
+	--color1: #ad8b73;
+	--color2: #ceab93;
+	--color3: #e3caa5;
+	--color4: #fffbe9;
+	--font1: "Helvetica", sans serif;
+	--font2: "Lora", serif;
+}
+
+body {
+	background-color: var(--color4);
+	color: var(--color1);
+	font-family: var(--font2);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	gap: 20px;
+}
+
+#header {
+	text-align: center;
+}
+
+#header > h2 {
+	color: var(--color2);
+	font-family: var(--font1);
+	margin-bottom: 15px;
+}
+
+#input {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 20px;
+	background-color: var(--color1);
+	border: 5px solid var(--color2);
+	color: var(--color4);
+	max-width: 400px;
+	width: 80%;
+	height: 250px;
+}
+
+#input label {
+	font-weight: bold;
+	font-size: 1.2rem;
+}
+
+#input input {
+	height: 50px;
+	width: min(300px, 80%);
+	border: 5px solid var(--color4);
+	background-color: var(--color2);
+	color: var(--color4);
+	text-align: center;
+	font-size: 1.4rem;
+	font-weight: bold;
+}
+
+#input button {
+	height: 50px;
+	width: min(300px, 80%);
+	background: linear-gradient(var(--color4), var(--color2));
+	border: 5px solid var(--color2);
+	color: var(--color1);
+	font-size: 1rem;
+	font-weight: bold;
+	font-style: italic;
+	cursor: pointer;
+	font-family: var(--font2);
+}
+
+#output {
+	background-color: var(--color1);
+	border: 5px solid var(--color2);
+	color: var(--color4);
+	font-size: 1.4rem;
+	font-weight: bold;
+	font-family: var(--font1);
+	height: 100px;
+	max-width: 400px;
+	width: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.error {
+	background-color: #7a160c !important;
+	border: 5px solid #f3b1af !important;
+}
+
+.hidden {
+	background-color: transparent !important;
+	border: none !important;
+}
