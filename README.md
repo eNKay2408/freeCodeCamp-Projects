@@ -8,3 +8,4 @@ Here are some of my JavaScript Algorithms and Data Structures Projects on freeCo
 
 ## 2. Roman Numeral Converter
 - **Introduction**: Come travel with me to ancient Roman civilization!
+- **Skills**: Modern JavaScript Methods, localStorage, Recursion
