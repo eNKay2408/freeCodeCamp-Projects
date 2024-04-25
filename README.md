@@ -9,3 +9,4 @@ Here are some of my JavaScript Algorithms and Data Structures Projects on freeCo
 ## 2. Roman Numeral Converter - Stage 02
 - **Introduction**: Come travel with me to ancient Roman civilization!
 - **Skills**: Modern JavaScript Methods, localStorage, Recursion
+- **Purposes**: Convert decimal numbers to Roman numbers
