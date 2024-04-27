@@ -10,3 +10,6 @@ Here are some of my JavaScript Algorithms and Data Structures Projects on freeCo
 - **Introduction**: Come travel with me to ancient Roman civilization!
 - **Skills**: Modern JavaScript Methods, localStorage, Recursion
 - **Purposes**: Convert decimal numbers to Roman numbers
+
+## 3. Telephone Number Validator - Stage 03
+- **Introduction**: Thanks to building this PRJ, I already know the common formats of foreign phone numbers, XD
