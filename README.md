@@ -14,3 +14,4 @@ Here are some of my JavaScript Algorithms and Data Structures Projects on freeCo
 ## 3. Telephone Number Validator - Stage 03
 - **Introduction**: Thanks to building this PRJ, I already know the common formats of foreign phone numbers, XD
 - **Skills**: Regular Expressions, Basic Algorithmic Thinking, Advanced Array Methods, Functional Programming
+- **Purposes**: Check valid phone numbers through common formats
