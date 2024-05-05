@@ -15,3 +15,6 @@ Here are some of my JavaScript Algorithms and Data Structures Projects on freeCo
 - **Introduction**: Thanks to building this PRJ, I already know the common formats of foreign phone numbers, XD
 - **Skills**: Regular Expressions, Basic Algorithmic Thinking, Advanced Array Methods, Functional Programming
 - **Purposes**: Check valid phone numbers through common formats
+
+## 4. Cash Register - Stage 04
+- **Introduction**: Today, we will open a store and you will be the cashier. Don't worry, with this application your work will be much easier
