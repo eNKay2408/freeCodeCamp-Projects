@@ -18,3 +18,4 @@ Here are some of my JavaScript Algorithms and Data Structures Projects on freeCo
 
 ## 4. Cash Register - Stage 04
 - **Introduction**: Today, we will open a store and you will be the cashier. Don't worry, with this application your work will be much easier
+- **Skills**: Basic OOP, Intermediate OOP, Intermediate Algorithmic Thinking
