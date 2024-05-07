@@ -20,3 +20,6 @@ Here are some of my JavaScript Algorithms and Data Structures Projects on freeCo
 - **Introduction**: Today, we will open a store and you will be the cashier. Don't worry, with this application your work will be much easier
 - **Skills**: Basic OOP, Intermediate OOP, Intermediate Algorithmic Thinking
 - **Purposes**: Determine denominations of money returned to customers with data from customer payments and cash drawers
+
+## 5. Pokemon Search App - Stage 05
+- **Introduction**: I'm so excited because this is the final project of achieving this very difficult JS certification
