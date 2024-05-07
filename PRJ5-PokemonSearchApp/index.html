@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="./styles.css" />
+		<title>eNKay's Pokémon Search App</title>
+	</head>
+	<body>
+		<header id="header">
+			<h2>eNKay Program</h2>
+			<h1>Ứng dụng tìm kiếm Pokémon</h1>
+		</header>
+		<main id="container">
+			<form id="search-container">
+				<label id="search-label" for="search-input">
+					Tìm kiếm Tên hoặc ID Pokémon
+				</label>
+				<div>
+					<input type="text" id="search-input" required />
+					<button type="submit" id="search-button">Tìm kiếm</button>
+				</div>
+			</form>
+			<div id="general-container">
+				<div class="inline-general">
+					<span id="pokemon-name"></span>
+					<span id="pokemon-id"></span>
+				</div>
+				<div class="inline-general">
+					<span id="weight"></span>
+					<span class="separate"></span>
+					<span id="height"></span>
+				</div>
+				<img id="sprite" />
+				<div id="types" class="inline-general"></div>
+			</div>
+			<div id="detail-container">
+				<div class="inline-detail">
+					<span>Đặc tính</span>
+					<span>Thống kê</span>
+				</div>
+				<div class="inline-detail">
+					<span>Máu:</span>
+					<span id="hp"></span>
+				</div>
+				<div class="inline-detail">
+					<span>Tấn công:</span>
+					<span id="attack"></span>
+				</div>
+				<div class="inline-detail">
+					<span>Phòng thủ:</span>
+					<span id="defense"></span>
+				</div>
+				<div class="inline-detail">
+					<span>Tấn công đặc biệt:</span>
+					<span id="special-attack"></span>
+				</div>
+				<div class="inline-detail">
+					<span>Phòng thủ đặc biệt:</span>
+					<span id="special-defense"></span>
+				</div>
+				<div class="inline-detail">
+					<span>Tốc độ:</span>
+					<span id="speed"></span>
+				</div>
+			</div>
+		</main>
+		<script src="./script.js"></script>
+	</body>
+</html>
