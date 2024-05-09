@@ -24,3 +24,4 @@ Here are some of my JavaScript Algorithms and Data Structures Projects on freeCo
 ## 5. Pokemon Search App - Stage 05
 - **Introduction**: I'm so excited because this is the final project of achieving this very difficult JS certification
 - **Skills**: Fetch and Promises, Asynchronous Programming
+- **Purposes**: Search for informative stats of your favorite Pokemon
