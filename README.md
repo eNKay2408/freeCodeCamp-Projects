@@ -9,3 +9,4 @@ Here are some of my Front End Development Libraries Project on freeCodeCamp
 ## 2. Markdown Previewer - Stage 02
 - **Introduction**: I was truly amazed at the power of a powerful library called Marked. It almost handles all project problems
 - **Skills**: Rect, Marked, Font Awesome
+- **Purposes**: It's a website that helps you preview your markdown text.
