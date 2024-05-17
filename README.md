@@ -10,3 +10,6 @@ Here are some of my Front End Development Libraries Project on freeCodeCamp
 - **Introduction**: I was truly amazed at the power of a powerful library called Marked. It almost handles all project problems
 - **Skills**: Rect, Marked, Font Awesome
 - **Purposes**: It's a website that helps you preview your markdown text.
+
+## 3. Drum Machine - Stage 03
+- **Introduction**: I was very interested in this project to learn how to create tags for media files and discover where it can be stored.
