@@ -17,3 +17,4 @@ Here are some of my Front End Development Libraries Project on freeCodeCamp
 - **Purposes**: Helps you reduce stress with playful drum rhythms.
 
 ## 4. Calculator - Stage 04
+- **Introduction**: For me, this is the most difficult project. Although there is support from Math library, handling the cases is extremely difficult.
