@@ -10,3 +10,6 @@ Here are some of my Relational Database Projects on freeCodeCamp
 - **Introduction**: I'm really surprised about the bash file able to automate. Just running a single file gives me the entire database.
 - **Skills**: Virtual Machine, Linux, PostgreSQL, Bash Script, Automation.
 - **Purposes**: View World Cup 2014, 2018 match results and data analysis queries.
+
+## Salon Appointment Scheduler - Stage 03
+- **Introduction**: Welcome to eNKay's salon service. Here I have prepared the script and you can feel free to schedule it
