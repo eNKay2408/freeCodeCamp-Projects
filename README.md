@@ -19,3 +19,4 @@ Here are some of my Front End Development Libraries Project on freeCodeCamp
 ## 4. Calculator - Stage 04
 - **Introduction**: For me, this is the most difficult project. Although there is support from Math library, handling the cases is extremely difficult.
 - **Skills**: React, Math, Bootstrap, jQuery
+- **Purposes**: Helps you calculate simple math problems.
