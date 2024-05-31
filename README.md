@@ -12,6 +12,9 @@ Here are some of my Relational Database Projects on freeCodeCamp
 - **Purposes**: View World Cup 2014, 2018 match results and data analysis queries.
 
 ## Salon Appointment Scheduler - Stage 03
-- **Introduction**: Welcome to eNKay's salon service. Here I have prepared the script and you can feel free to schedule it
+- **Introduction**: Welcome to eNKay's salon service. Here I have prepared the script and you can feel free to schedule it.
 - **Skills**: PostgreSQL, Bash Script, Interaction.
 - **Purposes**: Allows user to interact to schedule salon appointment.
+
+## Periodic Table Database - Stage 04
+- **Introduction**: I ran into some difficult SQL questions and made mistakes while using Git. But luckily, I got over it.
