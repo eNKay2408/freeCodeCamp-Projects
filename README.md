@@ -18,3 +18,5 @@ Here are some of my Relational Database Projects on freeCodeCamp
 
 ## Periodic Table Database - Stage 04
 - **Introduction**: I ran into some difficult SQL questions and made mistakes while using Git. But luckily, I got over it.
+- **Skills**: Git, PostgreSQL, Bash Script.
+- **Purposes**: Directly query chemical elements from the periodic table.
