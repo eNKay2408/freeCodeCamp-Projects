@@ -22,3 +22,4 @@ Here are some of my Relational Database Projects on freeCodeCamp
 - **Purposes**: Directly query chemical elements from the periodic table.
 
 ## Number Guessing Game - Stage 05
+- **Introduction**: This project is the final project of the course. I was proficient in Bash and SQL so the settlement speed was really fast.
