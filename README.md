@@ -25,3 +25,5 @@ Here are some of my Relational Database Projects on freeCodeCamp
 - **Introduction**: This project is the final project of the course. I was proficient in Bash and SQL so the settlement speed was really fast.
 - **Skills**: Git, PostgreSQL, Bash Script, Game.
 - **Purposes**: Create number guessing game to interact with users. Interesting, when thinking with binary search, we only need 10 steps for 1000 numbers. XD!
+
+# No Pain - No Gain!
