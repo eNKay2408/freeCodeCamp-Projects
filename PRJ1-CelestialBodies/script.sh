@@ -116,7 +116,6 @@ VALUES
 ('Rigel b Moon 2', 8000, 863, 1.0, 'A moon orbiting Rigel b.', FALSE, TRUE, 11),
 ('Rigel c Moon 2', 8000, 863, 1.0, 'A moon orbiting Rigel c.', FALSE, TRUE, 12);
 
--- add 6 rows for mission table foreign key constraints with moon_id
 INSERT INTO mission (name, launch_date, duration_in_days, crew_size, description, budget_in_millions_of_dollars, successful, is_manned, moon_id) 
 VALUES
 ('Apollo 11', '1969-07-16', 8, 3, 'First manned mission to land on the Moon.', 355, TRUE, TRUE, 1),
