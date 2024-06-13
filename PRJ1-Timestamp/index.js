@@ -26,7 +26,7 @@ app.get("/api/hello", function (req, res) {
 app.get("/api", (req, res) => {
 	const date = new Date();
 	res.json({
-		unit: date.getTime(),
+		unix: date.getTime(),
 		utc: date.toUTCString(),
 	});
 });
@@ -45,7 +45,7 @@ app.get("/api/:date_string", (req, res) => {
 		res.json({ error: "Invalid Date" });
 	} else {
 		res.json({
-			unit: date.getTime(),
+			unix: date.getTime(),
 			utc: date.toUTCString(),
 		});
 	}
