@@ -1,0 +1,15 @@
+{
+	"name": "prj2-header-parser-microservice",
+	"version": "1.0.0",
+	"description": "Header Parser Microservice Project on freeCodeCamp",
+	"author": "eNKay",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"cors": "^2.8.5",
+		"dotenv": "^8.2.0",
+		"express": "^4.19.2"
+	}
+}
