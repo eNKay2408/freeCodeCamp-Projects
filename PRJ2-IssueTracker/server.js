@@ -2,11 +2,8 @@
 
 const express = require("express");
 const bodyParser = require("body-parser");
-const expect = require("chai").expect;
 const cors = require("cors");
 require("dotenv").config();
-
-const apiRoutes = require("./routes/api.js");
 
 let app = express();
 
@@ -27,7 +24,12 @@ app.route("/").get(function (req, res) {
 	res.sendFile(process.cwd() + "/views/index.html");
 });
 
+// Connect to MongoDB
+const connectDB = require("./config/db");
+connectDB();
+
 //Routing for API
+const apiRoutes = require("./routes/api.js");
 apiRoutes(app);
 
 //404 Not Found Middleware
