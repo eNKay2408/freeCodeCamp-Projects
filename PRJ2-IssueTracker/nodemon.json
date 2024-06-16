@@ -1,0 +1,6 @@
+{
+	"watch": ["server.js", "config/", "models/", "routes/", "tests/"],
+	"ext": "js,json",
+	"ignore": ["node_modules"],
+	"exec": "concurrently \"npm start\" \"npm test\""
+}
