@@ -23,3 +23,4 @@ Here are some of my Front End Development Libraries Project on freeCodeCamp
 
 ## 5. 25 + 5 Clock
 - **Introduction**: Join me to balance learning and rest with this lovely clock.
+- **Skills**: React, Redux, Bootstrap
