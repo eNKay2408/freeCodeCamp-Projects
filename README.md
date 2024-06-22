@@ -24,3 +24,4 @@ Here are some of my Front End Development Libraries Project on freeCodeCamp
 ## 5. 25 + 5 Clock
 - **Introduction**: Join me to balance learning and rest with this lovely clock.
 - **Skills**: React, Redux, Bootstrap
+- **Purposes**: Are you tired from studying? No time to relax? Use this app to balance both factors with this 25+5 formula
