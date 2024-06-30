@@ -14,6 +14,7 @@ Here are some of my "Back End Development And APIs" Projects on freeCodeCamp
 ## 3. URL Shortener Microservice
 - **Introduction**: This is a difficult project. A lot of new knowledge was introduced and I had to absorb a lot.
 - **Skills**: NodeJS, Express, API, MongoDB, Mongoose
+- **Purposes**: Shorten URL and redirect to original URL.
 
 ## 4. Exercise Tracker
 - **Introduction**: Through this project, I feel like I understand NodeJS better and find it very interesting.
