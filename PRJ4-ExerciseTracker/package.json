@@ -1,0 +1,19 @@
+{
+	"name": "prj4-exercise-tracker",
+	"version": "1.0.0",
+	"description": "Exercise Tracker Project on freeCodeCamp",
+	"author": "eNKay",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "node src/index.js"
+	},
+	"dependencies": {
+		"body-parser": "^1.20.2",
+		"cors": "^2.8.5",
+		"dotenv": "^16.4.5",
+		"express": "^4.19.2",
+		"moment-timezone": "^0.5.45",
+		"mongoose": "^8.4.1",
+		"path": "^0.12.7"
+	}
+}
