@@ -18,6 +18,7 @@ Here are some of my "Back End Development And APIs" Projects on freeCodeCamp
 
 ## 4. Exercise Tracker
 - **Introduction**: Through this project, I feel like I understand NodeJS better and find it very interesting.
+- **Skills**: NodeJS, Express, MongoDB, Dividing Folders
 
 ## 5. File Metadata Microservice
 - **Introduction**: I really didn't expect that the final project would be easier than the previous ones. Easy game, XD.
