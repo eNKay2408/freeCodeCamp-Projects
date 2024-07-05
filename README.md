@@ -23,3 +23,4 @@ Here are some of my "Back End Development And APIs" Projects on freeCodeCamp
 
 ## 5. File Metadata Microservice
 - **Introduction**: I really didn't expect that the final project would be easier than the previous ones. Easy game, XD.
+- **Skills**: NodeJS, Express, API, Multer, fs
