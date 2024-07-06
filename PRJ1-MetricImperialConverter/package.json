@@ -1,7 +1,9 @@
 {
-	"name": "fcc-imperial-metric-converter-boilerplate",
+	"name": "prj1-metric-imperial-converter",
 	"version": "1.0.0",
-	"description": "Metric / Imperial Unit Converter",
+	"description": "Metric-Imperial Converter project on freeCodeCamp",
+	"author": "eNKay",
+	"main": "server.js",
 	"scripts": {
 		"start": "node server.js",
 		"test": "mocha ./tests"
@@ -17,7 +19,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-project-metricimpconverter"
+		"url": "https://github.com/eNKay2408/fCC_Quality-Assurance/tree/main/PRJ1-MetricImperialConverter"
 	},
 	"keywords": [
 		"node",
