@@ -13,6 +13,7 @@ Here are some of my "Quality Assurance" Projects on freeCodeCamp
 
 ## 3. Personal-Library
 - **Introduction**: This project is much more comfortable than the previous one. It helps me master the basics better
+- **Skills**: Express, Chai, MongoDB. 
 
 ## 4. Sudoku Solver
 
