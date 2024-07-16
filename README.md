@@ -19,5 +19,6 @@ Here are some of my "Quality Assurance" Projects on freeCodeCamp
 ## 4. Sudoku Solver
 - **Introduction**: Thanks to implementation of this project. I know how to solve Sudoku puzzles. It's a great experience.
 - **Skills**: Express, Chai, Backtracking.
+- **Purposes**: Check if a Sudoku puzzle is valid, and solve it if it is.
 
 ## 5. American British Translator
