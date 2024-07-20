@@ -24,3 +24,4 @@ Here are some of my "Quality Assurance" Projects on freeCodeCamp
 ## 5. American British Translator
 - **Introduction**: Americans and British are really complicated because there are many differences. I'm Vietnamese so I didn't know about this complexity before.
 - **Skills**: Express, Chai, Regex.
+- **Purposes**: Translate American English to British English and vice versa.
