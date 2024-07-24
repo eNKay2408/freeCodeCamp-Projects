@@ -7,6 +7,7 @@ Here are some of my "Information Security" Projects on freeCodeCamp
 - **Purposes**: Get the stock price from an external API. Allow users to like the stock. Compare the number of likes between two stocks.
 
 ## 2. Anonymous Message Board
+- **Introduction**: I think this project is more interesting than the first one. I have to implement the authentication and authorization system.
 
 ## 3. Port Scanner
 
