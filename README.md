@@ -8,6 +8,7 @@ Here are some of my "Information Security" Projects on freeCodeCamp
 
 ## 2. Anonymous Message Board
 - **Introduction**: I think this project is more interesting than the first one. I have to implement the authentication and authorization system.
+- **Skills**: Express, Helmet, Chai, MongoDB, Bcrypt, Authentication, Authorization.
 
 ## 3. Port Scanner
 
