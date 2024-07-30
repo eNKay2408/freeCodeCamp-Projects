@@ -12,6 +12,7 @@ Here are some of my "Information Security" Projects on freeCodeCamp
 - **Purposes**: Create a new thread, reply to a thread, report a thread, delete a thread, report a reply, delete a reply.
 
 ## 3. Port Scanner
+- **Introduction**: This is a simple port scanner. But it took me quite a while to figure out how to validate between IP and host formats.
 
 ## 4. SHA1 Password Cracker
 
