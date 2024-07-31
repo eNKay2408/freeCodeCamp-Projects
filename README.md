@@ -14,6 +14,7 @@ Here are some of my "Information Security" Projects on freeCodeCamp
 ## 3. Port Scanner
 - **Introduction**: This is a simple port scanner. But it took me quite a while to figure out how to validate between IP and host formats.
 - **Skills**: Python, Socket, Validation, Unit Test.
+- **Purposes**: Scan the ports of a given IP address or host.
 
 ## 4. SHA1 Password Cracker
 
