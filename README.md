@@ -17,5 +17,6 @@ Here are some of my "Information Security" Projects on freeCodeCamp
 - **Purposes**: Scan the ports of a given IP address or host.
 
 ## 4. SHA1 Password Cracker
+- **Introduction**: This project is easier than the previous one. But it helps me understand how to do brute force attack.
 
 ## 5. Secure Real Time Multiplayer Game
