@@ -18,5 +18,6 @@ Here are some of my "Information Security" Projects on freeCodeCamp
 
 ## 4. SHA1 Password Cracker
 - **Introduction**: This project is easier than the previous one. But it helps me understand how to do brute force attack.
+- **Skills**: Python, Hash, Brute Force, Unit Test.
 
 ## 5. Secure Real Time Multiplayer Game
