@@ -22,3 +22,4 @@ Here are some of my "Information Security" Projects on freeCodeCamp
 - **Purposes**: Crack some common passwords hashed by SHA1.
 
 ## 5. Secure Real Time Multiplayer Game
+- **Introduction**: This is the most difficult project I have ever done. I can't complete the project completely, I can only install passing tests
