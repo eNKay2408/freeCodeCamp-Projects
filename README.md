@@ -7,5 +7,5 @@ Here are some of my "Data Visualization" Projects on freeCodeCamp
 - **Purposes**: Show the United States GDP data from 1947 to 2015.
 
 ## 2. Scatterplot Graph
-// Adopt it and Easy than previous project
 - **Introduction**: In this project I was more familiar with using d3.js so the implementation was easy, notably having to change to "circle"
+- **Skills**: D3.js, JavaScript, HTML, CSS.
