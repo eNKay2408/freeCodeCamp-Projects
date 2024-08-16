@@ -9,3 +9,4 @@ Here are some of my "Data Visualization" Projects on freeCodeCamp
 ## 2. Scatterplot Graph
 - **Introduction**: In this project I was more familiar with using d3.js so the implementation was easy, notably having to change to "circle"
 - **Skills**: D3.js, JavaScript, HTML, CSS.
+- **Purposes**: Show the doping in professional bicycle racing - 35 fastest times up Alpe d'Huez
