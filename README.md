@@ -10,3 +10,6 @@ Here are some of my "Data Visualization" Projects on freeCodeCamp
 - **Introduction**: In this project I was more familiar with using d3.js so the implementation was easy, notably having to change to "circle"
 - **Skills**: D3.js, JavaScript, HTML, CSS.
 - **Purposes**: Show the doping in professional bicycle racing - 35 fastest times up Alpe d'Huez
+
+## 3. Heat Map
+- **Introduction**: This is the most beautiful project. I really like the color and the way the data is displayed. It's really cool.
