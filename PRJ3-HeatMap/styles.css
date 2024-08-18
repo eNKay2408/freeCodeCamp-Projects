@@ -1,0 +1,56 @@
+:root {
+	--color1: #fff8ea;
+	--color2: #9e7676;
+	--color3: #815b5b;
+	--color4: #594545;
+	--font1: "Roboto", sans-serif;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: var(--font1);
+	background-color: var(--color3);
+	color: var(--color1);
+	display: grid;
+	place-items: center;
+	height: 100vh;
+}
+
+#heat-map {
+	background-color: var(--color2);
+	box-shadow: 0 0 10px 5px var(--color4);
+	padding: 20px;
+}
+
+#title {
+	margin: -5px 0 5px;
+}
+
+#description,
+#title {
+	color: var(--color4);
+}
+
+text {
+	font-size: 0.7rem;
+}
+
+#x-axis-label,
+#y-axis-label {
+	fill: var(--color4);
+	font-size: 1rem;
+	font-weight: bold;
+}
+
+#tooltip {
+	color: var(--color4);
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 0 0 4px 2px var(--color3);
+	text-align: center;
+	transition: opacity 0.3s ease;
+}
