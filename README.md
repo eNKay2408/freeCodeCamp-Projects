@@ -15,3 +15,6 @@ Here are some of my "Data Visualization" Projects on freeCodeCamp
 - **Introduction**: This is the most beautiful project. I really like the color and the way the data is displayed. It's really cool.
 - **Skills**: D3.js, JavaScript, HTML, CSS.
 - **Purposes**: Show the monthly global land-surface temperature from 1753 to 2015.
+
+## 4. Choropleth Map
+- **Introduction**: In this project, the very soft colors created a beautiful chart. And it's quite easy to implement.
