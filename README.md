@@ -18,3 +18,4 @@ Here are some of my "Data Visualization" Projects on freeCodeCamp
 
 ## 4. Choropleth Map
 - **Introduction**: In this project, the very soft colors created a beautiful chart. And it's quite easy to implement.
+- **Skills**: D3.js, JavaScript, HTML, CSS.
