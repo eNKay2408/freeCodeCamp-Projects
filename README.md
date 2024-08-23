@@ -19,3 +19,4 @@ Here are some of my "Data Visualization" Projects on freeCodeCamp
 ## 4. Choropleth Map
 - **Introduction**: In this project, the very soft colors created a beautiful chart. And it's quite easy to implement.
 - **Skills**: D3.js, JavaScript, HTML, CSS.
+- **Purposes**: Show the percentage of adults with a bachelor's degree or higher (2010-2014) in the United States.
