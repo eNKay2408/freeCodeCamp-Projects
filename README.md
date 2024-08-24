@@ -20,3 +20,6 @@ Here are some of my "Data Visualization" Projects on freeCodeCamp
 - **Introduction**: In this project, the very soft colors created a beautiful chart. And it's quite easy to implement.
 - **Skills**: D3.js, JavaScript, HTML, CSS.
 - **Purposes**: Show the percentage of adults with a bachelor's degree or higher (2010-2014) in the United States.
+
+## 5. Treemap Diagram
+- **Introduction**: This is my final project in this course. I had a lot of trouble making it. But the result is worth it because the data is very rich with 3 different charts.
