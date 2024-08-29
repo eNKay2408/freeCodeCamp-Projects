@@ -25,3 +25,5 @@ Here are some of my "Data Visualization" Projects on freeCodeCamp
 - **Introduction**: This is my final project in this course. I had a lot of trouble making it. But the result is worth it because the data is very rich with 3 different charts.
 - **Skills**: D3.js, JavaScript, HTML, CSS.
 - **Purposes**: Explore top Kickstarter pledges, video game sales by platform, and highest-grossing movies by genre for trends.
+
+# No Pain - No Gain!
