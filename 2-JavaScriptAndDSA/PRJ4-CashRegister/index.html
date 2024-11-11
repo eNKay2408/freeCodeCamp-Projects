@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" href="./styles.css"/>
+    <title>eNKay's Cash Register Project</title>
+  </head>
+  <body>
+    <header id="header">
+      <h2>eNKay's Program</h2>
+      <h1>Dự án máy tính tiền</h1>
+    </header>
+    <div id="change-due"></div>
+    <div id="cash-container">
+      <label id="cash-label" for="cash">
+        Nhập tiền từ khách hàng
+      </label>
+      <input id="cash" type="number">
+      </input>
+      <button id="purchase-btn" type="button">
+        Mua
+      </button>
+    </div>
+    <div id="cash-register">
+      <div id="total-price">
+        Total: <span class="bold">$<span id="price">0</span></span>
+      </div>
+      <div id="connect"></div>
+      <div id="drawer-container">
+        <div id="decor">
+          <div class="decor-item"></div>
+          <div class="decor-item"></div>
+          <div class="decor-item"></div>
+          <div class="decor-item"></div>
+          <div class="decor-item"></div>
+          <div class="decor-item"></div>
+          <div class="decor-item"></div>
+          <div class="decor-item"></div>
+          <div class="decor-item"></div>
+        </div>
+        <div id="drawer">
+        </div>
+      </div>
+      <div id ="submit">
+        <div class="circle"></div>
+      </div>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+</html>

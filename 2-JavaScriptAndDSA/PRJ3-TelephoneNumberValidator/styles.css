@@ -1,0 +1,144 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root {
+	--color1: #ffc7c7;
+	--color2: #ffe2e2;
+	--color3: #f6f6f6;
+	--color4: #8785a2;
+	--font1: "Courier New", serif;
+	--font2: "Tahoma", sans serif;
+}
+
+body {
+	font-family: var(--font2);
+	background-color: var(--color4);
+	color: var(--color3);
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
+
+h2 {
+	font-family: var(--font1);
+	font-size: 2rem;
+	margin-bottom: 10px;
+	color: var(--color3);
+}
+
+h1 {
+	font-size: 2.2rem;
+	color: var(--color2);
+}
+
+#phone-container {
+	background-color: var(--color2);
+	width: 350px;
+	height: 560px;
+	max-width: 90%;
+	max-height: 70%;
+	margin: 20px auto;
+	display: flex;
+	flex-direction: column;
+	border-radius: 20px;
+}
+
+#camera {
+	height: 12px;
+	width: 12px;
+	background-color: var(--color1);
+	margin: 8px auto;
+	border-radius: 50px;
+}
+
+#body-phone {
+	margin: 0 auto;
+	width: 90%;
+	height: calc(100% - 28px - 50px);
+	background-color: var(--color3);
+	color: var(--color4);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 10px;
+	border-radius: 10px;
+}
+
+#body-phone p {
+	margin-top: 10px;
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+
+#user-input {
+	border-radius: 10px;
+	height: 40px;
+	width: 70%;
+	text-align: center;
+	font-size: 1.2rem;
+	background-color: var(--color1);
+	border: 2px solid var(--color4);
+	color: var(--color4);
+	font-weight: bold;
+	font-family: var(--font2);
+}
+
+#results-div {
+	width: 95%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	gap: 5px;
+	overflow-y: scroll;
+}
+
+#results-div::-webkit-scrollbar {
+	width: 10px;
+	background-color: var(--color3);
+}
+
+#results-div::-webkit-scrollbar-thumb {
+	border-radius: 20px;
+	background-color: var(--color4);
+}
+
+.result {
+	font-size: 1rem;
+	margin: 2px;
+	font-family: var(--font2);
+}
+
+.true {
+	color: green;
+}
+
+.false {
+	color: darkred;
+}
+
+#button {
+	margin: 10px;
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+}
+
+#check-btn,
+#clear-btn {
+	width: 120px;
+	height: 30px;
+	border-radius: 10px;
+	background-color: var(--color4);
+	color: var(--color3);
+	font-size: 1rem;
+	font-weight: bold;
+	cursor: pointer;
+}
