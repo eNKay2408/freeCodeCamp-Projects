@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css?family=Merriweather:400,400i,700");
+
+:root {
+	--color1: #27374d;
+	--color2: #526d82;
+	--color3: #9db2bf;
+	--color4: #dde6ed;
+	--font1: "Merriweather", serif;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: var(--font1);
+	background-color: var(--color3);
+	display: grid;
+	place-items: center;
+	height: 100vh;
+}
+
+#title,
+#description {
+	color: var(--color1);
+	margin-bottom: 10px;
+}
+
+#choropleth-map {
+	background-color: var(--color2);
+	padding: 20px;
+	margin: 0;
+	box-shadow: 0 0 10px 5px var(--color4);
+}
+
+text {
+	font-size: 0.8rem;
+	color: var(--color4);
+}
+
+#tooltip {
+	background-color: var(--color4);
+	box-shadow: 0 0 4px 2px var(--color1);
+	padding: 10px;
+	border-radius: 10px;
+	transition: opacity 0.5s ease;
+}

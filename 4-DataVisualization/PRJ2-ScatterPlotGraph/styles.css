@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
+
+:root {
+	--color1: #f8ede3;
+	--color2: #bdd2b6;
+	--color3: #a2b29f;
+	--color4: #798777;
+	--font1: "Open Sans", sans-serif;
+}
+
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: var(--font1);
+	background-color: var(--color3);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
+}
+
+#scatter-plot-graph {
+	background-color: var(--color2);
+	box-shadow: 0 0 10px 5px var(--color4);
+	padding: 15px;
+}
+
+#title {
+	color: var(--color4);
+}
+
+#legend,
+#y-axis-label {
+	fill: var(--color4);
+}
+
+#x-axis,
+#y-axis {
+	font-size: 0.8rem;
+}
+
+#tooltip {
+	position: absolute;
+	background-color: var(--color1);
+	padding: 5px;
+	border-radius: 10px;
+	transition: opacity 0.5s ease;
+	box-shadow: 0 0 8px 4px var(--color3);
+	color: var(--color4);
+	font-size: 0.8rem;
+}
+
+.dot {
+	stroke: black;
+	opacity: 0.8;
+}

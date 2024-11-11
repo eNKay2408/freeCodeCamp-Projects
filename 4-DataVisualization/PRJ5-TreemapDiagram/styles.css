@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,700");
+
+:root {
+	--color1: #2c3639;
+	--color2: #3f4e4f;
+	--color3: #a27b5c;
+	--color4: #dcd7c9;
+	--font1: "Montserrat", sans-serif;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: var(--font1);
+	background: var(--color1);
+	display: grid;
+	place-items: center;
+	height: 100vh;
+}
+
+#btns-data-set {
+	display: flex;
+	font-size: 1.5rem;
+	margin: 10px;
+	gap: 10px;
+	text-align: center;
+}
+
+#btns-data-set div {
+	background-color: var(--color2);
+	border-radius: 10px;
+	padding: 10px;
+	cursor: pointer;
+}
+
+#btns-data-set div:hover {
+	background-color: var(--color3);
+}
+
+#title {
+	color: var(--color4);
+	margin: 10px;
+}
+
+#description {
+	font-size: 1.2rem;
+	margin-bottom: 15px;
+	opacity: 0.8;
+	color: var(--color3);
+}
+
+#tooltip {
+	background-color: var(--color1);
+	color: var(--color3);
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 0 0 4px 2px var(--color3);
+}
+
+.tile-text {
+	fill: var(--color1);
+	font-size: 0.8rem;
+}
+
+.legend-text {
+	fill: var(--color3);
+}
+
+#treemap-diagram {
+	border-radius: 15px;
+}
