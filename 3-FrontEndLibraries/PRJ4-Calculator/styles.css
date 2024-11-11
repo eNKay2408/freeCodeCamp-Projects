@@ -1,0 +1,78 @@
+@import url("https://fonts.cdnfonts.com/css/digital-7-mono");
+
+:root {
+	--color1: #b1b2ff;
+	--color2: #aac4ff;
+	--color3: #d2daff;
+	--color4: #eef1ff;
+	--font1: "Digital-7", sans-serif;
+}
+
+#root {
+	font-family: var(--font1);
+	background-color: var(--color4);
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#calculator {
+	width: 80%;
+	max-width: 350px;
+	height: 400px;
+	background-color: var(--color2);
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px 5px var(--color3);
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+#display {
+	width: 100%;
+	height: 20%;
+	font-size: 3rem;
+	background-color: var(--color4);
+	border-radius: inherit;
+	color: var(--color1);
+	font-weight: bold;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	letter-spacing: 5px;
+	overflow-x: auto;
+}
+
+#controls {
+	flex-grow: 1;
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+}
+
+.btn {
+	border: 1px solid var(--color4);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 2rem;
+}
+
+#clear,
+#decimal,
+#equals {
+	grid-column: span 2;
+	font-weight: bold;
+}
+
+#author {
+	position: absolute;
+	bottom: 5%;
+	left: 50%;
+	transform: translate(-50%, 0%);
+	font-size: 1rem;
+	font-family: "Arial";
+	text-align: center;
+}
