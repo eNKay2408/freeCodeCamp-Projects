@@ -1,0 +1,28 @@
+# You should capitalize the first letter of all the symbol values in the elements table. Be careful to only capitalize the letter and not change any others
+    UPDATE elements SET symbol = concat(upper(left(symbol,1)), substring(symbol from 2));
+
+# You should remove all the trailing zeros after the decimals from each row of the atomic_mass column. You may need to adjust a data type to DECIMAL for this.
+    ALTER TABLE properties ALTER COLUMN atomic_mass TYPE decimal;
+    UPDATE properties SET atomic_mass=atomic_mass::REAL;
+
+# The rest of the commit messages should start with fix:, feat:, refactor:, chore:, or test:
+    fix: sửa một lỗi hoặc bug trong mã nguồn. fix: Sửa lỗi hiển thị không đúng trên trang chủ
+    feat: thêm một tính năng mới vào ứng dụng hoặc thư viện. feat: Thêm chức năng đăng nhập bằng Google
+    refactor: cải thiện hiệu suất, đọc mã nguồn dễ dàng hơn, hoặc tái cấu trúc mã. refactor: Tối ưu hóa hàm tính tổng
+    chore: viết tài liệu, cập nhật dependencies, định dạng mã nguồn, và làm sạch mã. chore: Cập nhật phiên bản thư viện XYZ
+    test: liên quan đến việc thêm hoặc sửa đổi các test. test: Thêm test cho hàm xử lý đăng ký
+
+# TOTAL COMMITS
+    7093f24 (HEAD -> main) fix: divide cases by number and text when finding atomic number
+    6df9144 chore: add README.md and .gitignore
+    9558b65 fix: add $ for check exist
+    c4dd477 refactor: add shebang and comments
+    01bfe61 fix: delete extra space for name, symbol, type name
+    0ad61f1 feat: output result
+    7d2da9c feat: get type name from types table
+    b9b7c52 feat: get information from properties table
+    4ab1ad5 feat: get symbol and name from elements table
+    6d85fed feat: handle atomic number not exist
+    ee87f43 feat: get atomic number from argument
+    ee42b7e feat: add prompt to provide argument
+    7355197 Initial commit
