@@ -1,0 +1,32 @@
+{
+	"name": "prj3-personal-library",
+	"version": "1.0.0",
+	"description": "Personal Library project on freeCodeCamp",
+	"author": "eNKay",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js",
+		"test": "mocha tests/**/*.js --exit"
+	},
+	"dependencies": {
+		"body-parser": "^1.15.2",
+		"chai": "^4.2.0",
+		"chai-http": "^4.3.0",
+		"cors": "^2.8.1",
+		"dotenv": "^8.2.0",
+		"express": "^4.14.0",
+		"mocha": "^3.2.0",
+		"mongoose": "^8.4.1",
+		"zombie": "^5.0.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/eNKay2408/fCC_Quality-Assurance/tree/main/PRJ3-PersonalLibrary"
+	},
+	"keywords": [
+		"node",
+		"hyperdev",
+		"express"
+	],
+	"license": "MIT"
+}
