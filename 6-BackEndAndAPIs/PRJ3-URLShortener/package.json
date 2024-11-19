@@ -1,0 +1,19 @@
+{
+	"name": "prj3-url-shortener",
+	"version": "1.0.0",
+	"description": "Url Shortener Microservice on freeCodeCamp",
+	"author": "eNKay",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"body-parser": "^1.20.2",
+		"cors": "^2.8.5",
+		"dns": "^0.2.2",
+		"dotenv": "^16.4.5",
+		"express": "^4.19.2",
+		"mongoose": "^8.4.1",
+		"mongoose-sequence": "^6.0.1"
+	}
+}
